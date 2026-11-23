@@ -1,26 +1,25 @@
-# Manoj — Portfolio
+# Manoj — Software Engineering Portfolio
 
-A responsive, single-page portfolio website built with plain HTML, CSS, and JavaScript.
+This repository contains my personal portfolio website. Its purpose is to help recruiters and engineering teams quickly understand the kind of software I build, review selected project work, and find my GitHub profile.
 
-## Run locally
-
-No build tools or dependencies are required.
+## View the website locally
 
 1. Clone this repository.
-2. Open `index.html` in your browser.
+2. Open `index.html` in any modern browser.
 
-## Customize
+There is no build step or package installation.
 
-- Update the introduction and project descriptions in `index.html`.
-- Add a public email or LinkedIn URL in the contact section when ready.
-- Replace project links with live demos when available.
+## Publish with GitHub Pages
 
-## Deployment
-
-This repository can be deployed directly with GitHub Pages:
-
-1. Open the repository's **Settings → Pages**.
+1. Open **Settings → Pages** in this repository.
 2. Under **Build and deployment**, choose **Deploy from a branch**.
-3. Select the `main` branch and `/(root)`.
-4. Save and wait for the deployment URL to appear.
+3. Select branch `main` and folder `/(root)`.
+4. Save. GitHub will provide the public website URL after deployment.
 
+## Portfolio contents
+
+- FrostFlow — website QA automation project.
+- Digital News Platform & CMS — freelance client delivery (private work).
+- Digital Twin Room — technical exploration.
+
+Project descriptions distinguish public repositories, private client work, and experiments. Update the page as projects and contact details change.
